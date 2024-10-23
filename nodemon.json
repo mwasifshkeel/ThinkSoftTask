@@ -1,0 +1,6 @@
+{
+    "watch": ["index.html", "src/**/*.css", "src/**/*.html"],
+    "ext": "html,css",
+    "exec": "vite"
+  }
+  
